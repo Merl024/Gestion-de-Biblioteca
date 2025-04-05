@@ -2,6 +2,11 @@ package Biblioteca;
 
 import java.util.HashSet;
 
+/*
+* @author Melisa Rivas - 20245324
+* @author Alisson Quijano - 20245233
+* */
+
 public class SistemaGestionBiblioteca {
     public static void main(String[] args) {
         // instancia de biblioteca
